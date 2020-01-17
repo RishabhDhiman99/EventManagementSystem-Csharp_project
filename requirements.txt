@@ -1,0 +1,3 @@
+The requirements for project are:-
+1. Microsoft Visual Studio c# 
+2. Microsoft Access
