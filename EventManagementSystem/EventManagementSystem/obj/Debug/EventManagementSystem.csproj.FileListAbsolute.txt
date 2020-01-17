@@ -1,0 +1,14 @@
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.csprojAssemblyReference.cache
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Form1.resources
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.cache
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Form2.resources
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\EventManagementSystem.mdb
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Form3.resources
+C:\Users\Rishabh\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Form4.resources
